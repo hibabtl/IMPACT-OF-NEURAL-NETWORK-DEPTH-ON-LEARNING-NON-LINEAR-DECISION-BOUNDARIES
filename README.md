@@ -50,5 +50,5 @@ This makes it ideal for evaluating neural networks.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/mlp-depth-analysis.git
-cd mlp-depth-analysis
+git clone https://github.com/hibabtl/IMPACT-OF-NEURAL-NETWORK-DEPTH-ON-LEARNING-NON-LINEAR-DECISION-BOUNDARIES.git
+
